@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# other
+res/
+*.json
+
+support/ggl_work.py
+page.html
